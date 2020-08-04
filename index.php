@@ -21,7 +21,7 @@
          </div>
          <br>
          <div class="form-item">
-		<label style="font-size:25px">Phone:</label><input type="phone" name="phone" required="required" required>
+		<label style="font-size:25px">Phone:</label><input type="tel" name="phone" required="required" required>
 			</div>
 			<br>
 
